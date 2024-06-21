@@ -35,5 +35,5 @@
 >
 > ### Console Interface
 >
-> Implement a simple menu system that allows users to select which query to run.
-> Provide options to view books, view borrows for a borrower and calculate total borrows.
+> - [x] Implement a simple menu system that allows users to select which query to run.
+> - [x] Provide options to view books, view borrows for a borrower and calculate total borrows.
